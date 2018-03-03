@@ -17,13 +17,11 @@ if N = 12(12%22 == 0), insert to levels 0, 1, 2 if N = 16(16 == 24), insert to 0
 
 Some Example usages of the operations:
 
-node *list = init(2);*
+node *list = init(2);
 
 clear(list);
 
-printf("is_empty: %d\n", is_empty(list));
-printf("num_levels: %d\n", num_levels(list));
-printf("num_nodes: %d\n", num_nodes(list));
+printf("is_empty: %d\n", is_empty(list));	printf("num_levels: %d\n", num_levels(list));	printf("num_nodes: %d\n", num_nodes(list));
 
 	is_empty: 0
 	num_levels: 4

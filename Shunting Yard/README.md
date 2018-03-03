@@ -7,17 +7,21 @@ In this C program Shunting Yard Algorithm is implemented but it doesn't use stac
 I/O Example:
 
 Please enter the mathematical expression (up to 200 characters)
-3+8
-Result: 11
+
+	3+8
+	Result: 11
 
 Please enter the mathematical expression (up to 200 characters)
-3/7-2672+5222-3
-Result: 2547.43
+
+	3/7-2672+5222-3
+	Result: 2547.43
 
 Please enter the mathematical expression (up to 200 characters)
-sin(15)+78-cos(20)
-Result: 78.24
+
+	sin(15)+78-cos(20)
+	Result: 78.24
 
 Please enter the mathematical expression (up to 200 characters)
-(~456)+ln(1)-15/5
-Result: -459.00
+
+	(~456)+ln(1)-15/5
+	Result: -459.00
