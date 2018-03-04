@@ -33,9 +33,9 @@ delete(list, 123);
 
 print_level(list, 2);
 
-					   890: htv ->
-						  |
-	-2: -> 456: rqe -> 890: htv ->
+						890 : htv ->
+							|
+	-2: -> 456: rqe -> 890  :  htv ->
 
 node = find(list, 234);
 
