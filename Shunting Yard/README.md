@@ -4,6 +4,11 @@
 
 In this C program Shunting Yard Algorithm is implemented but it doesn't use stack data type, however it directly converts the input expression (gets as a string) to its postfix form as string and then it evaluates the expression and returns the result. 
 
+Provided Operators and Functions are as follows: 
+	
+	+, -, *, /, ^
+	~, sin(), cos(), sqrt(), ln()   (~ stands for unary minus)
+
 I/O Example:
 
 Please enter the mathematical expression (up to 200 characters)
@@ -25,3 +30,4 @@ Please enter the mathematical expression (up to 200 characters)
 
 	(~456)+ln(1)-15/5
 	Result: -459.00
+
