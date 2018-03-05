@@ -1,5 +1,5 @@
-#ifndef _MULTILEVEL_LL_
-#define _MULTILEVEL_LL_
+#ifndef _MULTILEVEL_LL_H_
+#define _MULTILEVEL_LL_H_
 
 /*
     an augmented sorted linked list implementation
@@ -94,4 +94,4 @@ void print(node *list);
 void print_level(node *list, int level);
 
 
-#endif /*_MULTILEVEL_LL_*/
+#endif /*_MULTILEVEL_LL_H_*/
