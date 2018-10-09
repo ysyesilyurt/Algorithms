@@ -1,2 +1,2 @@
-# my-c-projects
-Collection of my own C projects
+# Algorithms
+Several implementations written for various algorithms and data structures
