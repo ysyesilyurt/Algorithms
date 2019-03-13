@@ -1,0 +1,11 @@
+# Python Stuff #
+###################
+.idea
+venv
+
+# C/C++ Stuff #
+###################
+CMakeLists.txt
+cmake-build-debug
+main.cpp
+main.c
